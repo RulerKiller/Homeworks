@@ -15,15 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0.deflaut.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="0.deflaut.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1.A.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="1.B.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -79,6 +70,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="2.F.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="0.deflaut.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1.A.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="0.deflaut.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="2.G.c">
