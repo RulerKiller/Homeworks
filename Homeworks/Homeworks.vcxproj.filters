@@ -72,7 +72,7 @@
     <ClCompile Include="2.F.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="0.deflaut.cpp">
+    <ClCompile Include="2.G.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="1.A.c">
@@ -81,7 +81,7 @@
     <ClCompile Include="0.deflaut.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="2.G.c">
+    <ClCompile Include="0.deflaut.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
