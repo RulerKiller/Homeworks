@@ -84,5 +84,38 @@
     <ClCompile Include="0.deflaut.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2.H.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.H.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.A.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.A.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.B.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.C.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.D.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.E.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.H.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.F.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3.G.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
