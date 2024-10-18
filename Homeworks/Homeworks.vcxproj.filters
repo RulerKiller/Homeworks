@@ -117,5 +117,17 @@
     <ClCompile Include="3.G.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4.A.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.B.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.C.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.D.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
