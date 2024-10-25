@@ -129,5 +129,23 @@
     <ClCompile Include="4.D.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5.A.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.B.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.C.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.D.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.E.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.D-张祎涵·.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
