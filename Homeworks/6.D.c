@@ -4,11 +4,11 @@ int main()
 {
     int m, n;
     scanf("%d %d", &m, &n);
-    int matrix[m][n];
+    int matrix[100][100];
     for (int i = 0; i < m; i++)
         for (int j = 0; j < n; j++)
             scanf("%d", &matrix[i][j]);
-    int rowMin[m];
+    int rowMin[100];
     for (int i = 0; i < m; i++)
     {
         rowMin[i] = matrix[i][0];
@@ -16,7 +16,7 @@ int main()
             if (matrix[i][j] < rowMin[i])
                 rowMin[i] = matrix[i][j];
     }
-    int colMax[n];
+    int colMax[100];
     for (int j = 0; j < n; j++)
     {
         colMax[j] = matrix[0][j];
