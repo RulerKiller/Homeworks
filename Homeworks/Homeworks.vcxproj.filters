@@ -162,5 +162,20 @@
     <ClCompile Include="6.E.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7.A.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.B.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.C.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.D.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.E.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
