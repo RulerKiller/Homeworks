@@ -177,5 +177,26 @@
     <ClCompile Include="7.E.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="8.A.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.B.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.C.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.D.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.E.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.F.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.G.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
