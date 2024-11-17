@@ -9,12 +9,12 @@ int main()
 	int a = 1;
 	while (true)
 	{
-		scanf("%s", &s);
+		scanf("%s", s);
 		j = strlen(s) - 1;
 		for (i = 0; i <= j; i++, j--)
 		{
 			if (s[i] != s[j])
-				 = 0;
+				a = 0;
 			break;
 		}
 		if (a)
